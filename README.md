@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishab Bashyal</h1>
-<h3 align="center">Software Development Intern @ Colgate-Palmolive</h3>
-<p align="center">💡 - Currently working on a platform that will facilitate connections between electric vehicles and privately owned charging stations.</p>
+<h3 align="center">Software Engineer - Senior at TAMUT</h3>
+<p align="center">💡 - </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishabbashyal&" alt="krishabbashyal" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishabbashyal&show_icons=true&locale=en&layout=compact" alt="krishabbashyal" /></p>
 
