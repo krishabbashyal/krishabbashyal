@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishab Bashyal</h1>
-<h3 align="center">Software Engineer</h3>
-<p align="center">💡 - Currently working on Mosaic, a fullstack project that will allow for teams to track their project status and manage their workload</p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishabbashyal&" alt="krishabbashyal" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishabbashyal&show_icons=true&locale=en&layout=compact" alt="krishabbashyal" /></p>
 
