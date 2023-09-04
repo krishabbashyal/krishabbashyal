@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Krishab 👋🏼</h1>
+<h1 align="center">Hello, I am Krishab 👋🏼</h1>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishabbashyal&" alt="krishabbashyal" /></p>
