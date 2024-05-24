@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I'm Krishab 👋🏼</h2>
-<h3 align="center">I make apps for the internet.</h3>
+<h3 align="center">I make apps for the internet and your phone</h3>
 <p align="center">-</p>
 
 
