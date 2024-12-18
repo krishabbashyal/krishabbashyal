@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Krishab 👋🏼</h2>
 <h3 align="center">I build apps for the internet and your phone.</h3>
-<p align="center">Currently working with Expo, React.js, Next.js and TypeScript</p>
+<p align="center">Currently bulding mobile apps with Expo (React Native) and apps for the web with Next.js (React.js) paired with TypeScript</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishabbashyal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
